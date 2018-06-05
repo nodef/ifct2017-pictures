@@ -8,7 +8,7 @@ Check available [food pictures].
 ```javascript
 const pictures = require('@ifct2017/pictures');
 // pictures(<code>)
-// -> <path to picture> || null (if not present)
+// -> picture url || null (if not present)
 
 pictures('A001');
 // https://unpkg.com/@ifct2017/pictures@0.2.0/A001.jpeg
