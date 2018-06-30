@@ -1,5 +1,4 @@
 [Food pictures] in [Indian Food Composition Tables 2017].
-> Indian Food Composition portal: [ifct2017.github.io].
 
 ```javascript
 const pictures = require('@ifct2017/pictures');
@@ -14,9 +13,9 @@ pictures('T002');
 
 
 [![ifct2017](http://ninindia.org/images/ifct_2017.png)](https://www.npmjs.com/package/ifct2017)
-> Food composition values measured by [National Institute of Nutrition, Hyderabad].<br>
-> Raw data: [Document], [Webpage].
-
+> You can ask about composition of 526 key foods in India here: [ifct2017.github.io].<br>
+> Food composition values were measured by [National Institute of Nutrition, Hyderabad].<br>
+> Take a peek at the raw data here: [Document], [Webpage].
 
 [Indian Food Composition Tables 2017]: http://ifct2017.com/
 [Food pictures]: https://unpkg.com/@ifct2017/pictures@0.2.0/
