@@ -2,13 +2,20 @@
 
 ```javascript
 const pictures = require('@ifct2017/pictures');
+// pictures.unpkg(<code>) -> picture url (unpkg.com) | null
+// pictures.jsdelivr(<code>) -> picture url (cdn.jsdelivr.net) | null
 // pictures(<code>)
-// -> picture url || null (if not present)
+// -> picture path || null (if not present)
+
 
 pictures('A001');
-// https://unpkg.com/@ifct2017/pictures@0.2.0/A001.jpeg
-pictures('T002');
-// null
+// C:\Base\Forge\pictures\A001.jpeg
+
+pictures.unpkg('A001');
+// https://unpkg.com/@ifct2017/pictures/assets/A001.jpeg
+
+pictures.jsdelivr('A001');
+// https://cdn.jsdelivr.net/npm/@ifct2017/pictures/assets/A001.jpeg
 ```
 
 
