@@ -1,4 +1,6 @@
-[Food pictures] in [Indian Food Composition Tables 2017].
+Single representative [photo] of each foods (JPEG, 307x173).
+> This is part of package [ifct2017].<br>
+> Source: [Indian Food Composition Tables 2017].
 
 ```javascript
 const pictures = require('@ifct2017/pictures');
@@ -24,8 +26,9 @@ pictures.jsdelivr('A001');
 > Food composition values were measured by [National Institute of Nutrition, Hyderabad].<br>
 > Take a peek at the raw data here: [Document], [Webpage].
 
+[ifct2017]: https://www.npmjs.com/package/ifct2017
 [Indian Food Composition Tables 2017]: http://ifct2017.com/
-[Food pictures]: https://unpkg.com/@ifct2017/pictures@0.2.0/
+[photo]: https://unpkg.com/@ifct2017/pictures@0.2.0/
 [ifct2017.github.io]: https://ifct2017.github.io
 [National Institute of Nutrition, Hyderabad]: https://www.nin.res.in/
 [Document]: https://docs.google.com/document/d/1UVWVh-wPOR80M2sTy5naIJvR5DUNtf7lbOaPgCNQ9t4/edit?usp=sharing
