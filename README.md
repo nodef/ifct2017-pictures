@@ -41,7 +41,7 @@ pictures.jsDelivr(code) // → jsDelivr URL | null
 
 [ifct2017]: https://www.npmjs.com/package/ifct2017
 [Indian Food Composition Tables 2017]: http://ifct2017.com/
-[photo]: https://unpkg.com/@ifct2017/pictures@0.2.0/
+[photo]: https://unpkg.com/@ifct2017/pictures@2.0.0/
 [ifct2017.github.io]: https://ifct2017.github.io
 [National Institute of Nutrition, Hyderabad]: https://www.nin.res.in/
 [Document]: https://docs.google.com/document/d/1UVWVh-wPOR80M2sTy5naIJvR5DUNtf7lbOaPgCNQ9t4/edit?usp=sharing
