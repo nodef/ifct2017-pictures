@@ -1,6 +1,6 @@
 {
   "name": "@ifct2017/pictures",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Single representative photo of each foods (JPEG, 307x173).",
   "main": "index.js",
   "scripts": {
