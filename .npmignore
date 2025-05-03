@@ -1,0 +1,4 @@
+.github/
+deno.json
+deno.lock
+index.test.ts

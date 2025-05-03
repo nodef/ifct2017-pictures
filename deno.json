@@ -1,6 +1,7 @@
 {
   "name": "@nodef/ifct2017-pictures",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "license": "AGPL-3.0",
-  "exports": "./index.ts"
+  "exports": "./index.ts",
+  "exclude": [".github/", ".npmignore", "node_modules/", "package.json", "package-lock.json"]
 }

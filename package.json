@@ -1,0 +1,24 @@
+{
+  "name": "@ifct2017/pictures",
+  "version": "3.0.1",
+  "description": "Single representative photo of each foods (JPEG, 307x173).",
+  "main": "index.ts",
+  "scripts": {
+    "test": "exit"
+  },
+  "keywords": [
+    "ifct",
+    "2017",
+    "pictures"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "AGPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/ifct2017-pictures.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodef/ifct2017-pictures/issues"
+  },
+  "homepage": "https://github.com/nodef/ifct2017-pictures#readme"
+}
